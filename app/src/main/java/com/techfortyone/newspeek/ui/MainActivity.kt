@@ -1,7 +1,8 @@
-package com.techfortyone.newspeek
+package com.techfortyone.newspeek.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.techfortyone.newspeek.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
